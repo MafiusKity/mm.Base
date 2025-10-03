@@ -2,7 +2,7 @@
 A function in R to performing base conversion for vectors and matrices
 
 ## Use
-For use this function, run the source in mmBase.R and call in any R enviroment:
+For use this function, run the source in mmBase.R in any R enviroment and call:
 
 ```mmBase(m.base1,m.base2,vb1)```
 
